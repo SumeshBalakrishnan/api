@@ -1,0 +1,64 @@
+[
+  [
+    {
+      "code": 200,
+      "message": "Success",
+      "payload": {
+        "natl": [
+          {
+            "code": "HR",
+            "name": "CROATIAN"
+          },
+          {
+            "code": "ME",
+            "name": "MONTENEGRO"
+          },
+          {
+            "code": "MD",
+            "name": "MOLDOVA"
+          },
+          {
+            "code": "LK",
+            "name": "SRI LANKA"
+          },
+          {
+            "code": "TT",
+            "name": "TRINIDAD AND TOBAGO"
+          },
+          {
+            "code": "MM",
+            "name": "MYANMAR"
+          },
+          {
+            "code": "TZ",
+            "name": "TANZANIA"
+          },
+          {
+            "code": "CG",
+            "name": "REPUBLIC OF THE CONGO"
+          },
+          {
+            "code": "FJ",
+            "name": "FIJI"
+          },
+          {
+            "code": "RS",
+            "name": "SERBIA"
+          },
+          {
+            "code": "KP",
+            "name": "NORTH KOREA"
+          },
+          {
+            "code": "BA",
+            "name": "BOSNIA AND HERZEGOVINA"
+          },
+          {
+            "code": "GN",
+            "name": "GUINEA"
+          }
+        ]
+      }
+    }
+  ]
+]
